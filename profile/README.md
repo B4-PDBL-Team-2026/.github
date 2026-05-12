@@ -1,6 +1,7 @@
 # MOCO: Your Financial Autopilot
 
-![Moco Banner](https://raw.githubusercontent.com/B4-PDBL-Team-2026/.github/refs/heads/main/Banner.png) > **Berhenti mencatat masa lalu, mulai prediksikan masa depan.**
+![Moco Banner](https://raw.githubusercontent.com/B4-PDBL-Team-2026/.github/refs/heads/main/Banner.png) 
+> **Berhenti mencatat masa lalu, mulai prediksikan masa depan.**
 > Moco bukan sekadar aplikasi pencatat keuangan (*expense tracker*) biasa. Kami membangun ekosistem finansial proaktif yang bekerja secara otomatis untuk melacak, memprediksi, dan mengamankan pengeluaran Anda.
 MOCO: Money Control
 ---
